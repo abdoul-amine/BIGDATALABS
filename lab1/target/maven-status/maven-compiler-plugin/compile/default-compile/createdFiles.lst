@@ -1,0 +1,4 @@
+edu\supmit\hadoop\Main.class
+edu\supmit\hadoop\WriteHDFS.class
+edu\supmit\hadoop\ReadHDFS.class
+edu\supmit\hadoop\HadoopFileStatus.class
