@@ -52,7 +52,7 @@
                             <!-- ceci pour ReadHDFS
                             <mainClass>edu.supmit.hadoop.ReadHDFS</mainClass>-->
 
-                            <!-- ceci pour ReadHDFS-->
+                            <!-- ceci pour WriteHDFS -->
                             <mainClass>edu.supmit.hadoop.WriteHDFS</mainClass>
                         </manifest>
                     </archive>
