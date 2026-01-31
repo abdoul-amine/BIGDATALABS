@@ -1,0 +1,2 @@
+Topic: tp-replication	TopicId: qYNIDki4SBK0A_2Nn7EG3Q	PartitionCount: 1	ReplicationFactor: 3	Configs: 
+	Topic: tp-replication	Partition: 0	Leader: 1	Replicas: 1,0,2	Isr: 0,2,1

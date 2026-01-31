@@ -1,0 +1,8 @@
+test-after-leader-down
+failover-ok
+
+msg-1
+msg-2
+msg-1
+msg-2
+msg-after-failover

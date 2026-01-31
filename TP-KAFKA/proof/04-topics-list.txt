@@ -1,0 +1,8 @@
+Hello-Kafka
+__consumer_offsets
+connect-topic
+input-topic
+output-topic
+tp-replication
+wordcount-app-KSTREAM-AGGREGATE-STATE-STORE-0000000004-changelog
+wordcount-app-KSTREAM-AGGREGATE-STATE-STORE-0000000004-repartition
